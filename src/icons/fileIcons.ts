@@ -848,7 +848,7 @@ export const fileIcons: FileIcons = {
     },
     {
       name: 'angular-service',
-      fileExtensions: ['service.ts', 'service.js'],
+      fileExtensions: ['service.ts', 'service.js','services.ts'],
       enabledFor: [IconPack.Angular, IconPack.Ngrx],
     },
     {
